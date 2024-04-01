@@ -1,0 +1,4 @@
+#!/bin/sh
+GIT_WORK_TREE=/Users/leticia/Desktop/gitCode/meusite.com.br git checkout -f 
+
+
